@@ -11,3 +11,6 @@ faiss-cpu
 bs4
 unstructured
 libmagic
+textract
+tiktoken
+streamlit
